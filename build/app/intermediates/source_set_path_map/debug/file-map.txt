@@ -1,0 +1,12 @@
+com.example.mp3player.app-jetified-window-java-1.0.0-beta04-0 /home/nirnay/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.mp3player.app-core-1.6.0-1 /home/nirnay/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.mp3player.app-jetified-annotation-experimental-1.1.0-2 /home/nirnay/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.mp3player.app-jetified-window-1.0.0-beta04-3 /home/nirnay/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.mp3player.app-debug-4 /home/nirnay/nir/mp3player/android/app/src/debug/res
+com.example.mp3player.app-main-5 /home/nirnay/nir/mp3player/android/app/src/main/res
+com.example.mp3player.app-pngs-6 /home/nirnay/nir/mp3player/build/app/generated/res/pngs/debug
+com.example.mp3player.app-resValues-7 /home/nirnay/nir/mp3player/build/app/generated/res/resValues/debug
+com.example.mp3player.app-rs-8 /home/nirnay/nir/mp3player/build/app/generated/res/rs/debug
+com.example.mp3player.app-mergeDebugResources-9 /home/nirnay/nir/mp3player/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.mp3player.app-mergeDebugResources-10 /home/nirnay/nir/mp3player/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.mp3player.app-merged_res-11 /home/nirnay/nir/mp3player/build/app/intermediates/merged_res/debug
